@@ -14,5 +14,5 @@ int main()
     {
     double ci;
     ci=p1*(1+(r1/100),n1);
-    return ci;
+return ci;
 }
