@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 57477e240887b4b0d403e54b7a74046b3d48bd3d
 #include<bits/stdc++.h>
 using namespace std;
 int main()
@@ -35,6 +38,7 @@ int main()
         cout<<"-1";
     }
 }
+<<<<<<< HEAD
 =======
 #include<bits/stdc++.h>
 using namespace std;
@@ -73,3 +77,5 @@ int main()
     }
 }
 >>>>>>> 95b4bac31c74982ba41e6c86620a99637f80d45e
+=======
+>>>>>>> 57477e240887b4b0d403e54b7a74046b3d48bd3d
